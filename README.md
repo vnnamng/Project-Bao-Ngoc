@@ -11,6 +11,7 @@ For datasets: openwebtext, then fine tune with empathic dialogues
 ## Llama.cpp
 
 [Llama.cpp](https://github.com/ggerganov/llama.cpp)
+[ViNaLlama-7b](https://huggingface.co/vilm/vinallama-7b)
 
 ## Design
 1. Speak like a human: LLM
@@ -19,3 +20,5 @@ For datasets: openwebtext, then fine tune with empathic dialogues
 4. Filter
 5. Voice input and output
    
+## Working Process
+1. [Colab Notebook](https://colab.research.google.com/drive/1BDTL_W5XsFo8DF7OcTLsFXrNFpqtctm2?usp=sharing)
