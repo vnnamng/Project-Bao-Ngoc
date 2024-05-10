@@ -14,6 +14,10 @@ For datasets: openwebtext, then fine tune with empathic dialogues
 
 [ViNaLlama-7b](https://huggingface.co/vilm/vinallama-7b)
 
+## Chat GPT on Vietnamese
+1. Try to get an API key
+2. Test it performance on Vietnamese
+3. MMLU of ChatGPT4 is quite good on 57 different language [link](https://openai.com/index/gpt-4-research/)
 ## Design
 1. Speak like a human: LLM
 2. React to context: Sentiment Analysis
