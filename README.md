@@ -8,11 +8,13 @@ Create your own model, search in YouTube “GPT from scratch”
 
 For datasets: openwebtext, then fine tune with empathic dialogues 
 
-## Llama.cpp
+## Current models:
 
 [Llama.cpp](https://github.com/ggerganov/llama.cpp)
 
 [ViNaLlama-7b](https://huggingface.co/vilm/vinallama-7b)
+
+[VietnamAIHub](https://github.com/VietnamAIHub/Vietnamese_LLMs)
 
 ## Chat GPT on Vietnamese
 1. Try to get an API key
