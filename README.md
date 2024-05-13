@@ -24,6 +24,7 @@ For datasets: openwebtext, then fine tune with empathic dialogues
 3. 2d-model rigs
 4. Filter
 5. Voice input and output
+6. Bilingual: as creator's preference, she need to be able to speak english and vietnamese and their mixes perfectly, including joke and humor for great entertainment value.
    
 ## Working Process
 1. [Colab Notebook](https://colab.research.google.com/drive/1BDTL_W5XsFo8DF7OcTLsFXrNFpqtctm2?usp=sharing)
